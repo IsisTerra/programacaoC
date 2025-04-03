@@ -18,5 +18,6 @@ int main()
     scanf("%f", &altura);
     printf("A sua altura é %.2f\n", altura);
 
+    return 0;
 
 }
